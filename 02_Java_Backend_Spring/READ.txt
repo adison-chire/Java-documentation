@@ -1,0 +1,6 @@
+2. Dentro de 02-Java-Backend-Spring
+Aquí introduces el nombre del Framework o la Tecnología de persistencia clave.
+Carpeta Proyecto		Contenido / Foco Clave
+P1-CRUD-JDBC-Oracle		Conexión a la base de datos con JDBC (el paso previo a Spring).
+P2-API-Barberia-Spring-JPA	Spring Boot, REST, JPA/Hibernate, Oracle DB.
+P3-Mini-Ecommerce-Security-JWT	Ampliación de P2, añadiendo seguridad (JWT).

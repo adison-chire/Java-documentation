@@ -1,0 +1,6 @@
+3. Dentro de 03-Escalabilidad-Cloud-AWS
+Aquí enfatizas las tecnologías de despliegue y calidad del código.
+Carpeta Proyecto		Contenido / Foco Clave
+P1-API-Notas-Testing-JUnit	Añadir Testing (JUnit/Mockito) y documentación.
+P2-Microservicio-Pagos-Docker	Introducción a Docker y Contenedores.
+P3-Proyecto-Integrador-AWS	Proyecto final. Despliegue en AWS (EC2/RDS) y CI/CD.

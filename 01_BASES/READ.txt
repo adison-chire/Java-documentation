@@ -1,0 +1,6 @@
+Aquí guardas tus ejercicios de consola, enfocándote en el concepto principal del proyecto.
+Carpeta Proyecto		Contenido / Foco Clave
+P1-Juego-Adivina-Numero		Lógica, if/else, while, Scanner.
+P2-Agenda-Contactos-HashMap	Colecciones, HashMap, Métodos, CRUD en memoria.
+P3-POO-Sistema-Empleados	POO Avanzada, Herencia, Polimorfismo, Interfaces.
+E-Ejercicios-Diarios-Sintaxis	Ejercicios rápidos de LeetCode/HackerRank, snippets de código (Streams, Lambdas).

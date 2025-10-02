@@ -1,0 +1,4 @@
+4. Carpeta Adicional: 04-Recursos-Hacks
+Esta es una carpeta de apoyo para todo el proceso.
+• 04-Recursos-Hacks/Apuntes-Anki: Apuntes clave o las preguntas para tus flashcards.
+• 04-Recursos-Hacks/Configuracion-IDE: Scripts de instalación, configuraciones de IntelliJ, o archivos .env de ejemplo.
